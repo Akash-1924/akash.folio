@@ -1,10 +1,10 @@
 
-import './App.css'
+import './index.css'
 
 export default function App() {
   return (
-    <div className="App">
-      <h1>Welcome to Akash Folio</h1>
+    <div className="">
+      <h1 className='text-3xl'>Welcome to Akash Folio</h1>
     </div>
   )
 } 
