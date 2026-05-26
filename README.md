@@ -4,7 +4,7 @@ My personal developer portfolio showcasing my projects, technical skills, certif
 
 ## 🌐 Live Demo
 
-[Add your deployed portfolio link here once available]
+---
 
 ## ✨ Features
 
@@ -18,7 +18,7 @@ My personal developer portfolio showcasing my projects, technical skills, certif
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, TailwindCSS
-- **Deployment:** (Add your hosting platform, e.g., Vercel / Netlify / AWS)
+- **Deployment:** --
 
 ## 📁 Sections Included
 
